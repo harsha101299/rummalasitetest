@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/rummalasitetest/static/css/main.fac3d37c.css",
-    "main.js": "/rummalasitetest/static/js/main.a0efb8f5.js",
+    "main.css": "/rummalasitetest/static/css/main.84ce78a2.css",
+    "main.js": "/rummalasitetest/static/js/main.624c54ae.js",
     "static/media/Clients-Background.png": "/rummalasitetest/static/media/Clients-Background.6ab4a5b883ab5c4a8775.png",
     "static/media/manufacturing.png": "/rummalasitetest/static/media/manufacturing.ffb728fa7eee6c458491.png",
     "static/media/engineering.jpg": "/rummalasitetest/static/media/engineering.ee59651ea914081f9adf.jpg",
@@ -25,11 +25,11 @@
     "static/media/Hp_logo.jpeg": "/rummalasitetest/static/media/Hp_logo.996792ac99df80030e74.jpeg",
     "static/media/CDI_Logo.jpg": "/rummalasitetest/static/media/CDI_Logo.8a6e21009e967e372c17.jpg",
     "index.html": "/rummalasitetest/index.html",
-    "main.fac3d37c.css.map": "/rummalasitetest/static/css/main.fac3d37c.css.map",
-    "main.a0efb8f5.js.map": "/rummalasitetest/static/js/main.a0efb8f5.js.map"
+    "main.84ce78a2.css.map": "/rummalasitetest/static/css/main.84ce78a2.css.map",
+    "main.624c54ae.js.map": "/rummalasitetest/static/js/main.624c54ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.fac3d37c.css",
-    "static/js/main.a0efb8f5.js"
+    "static/css/main.84ce78a2.css",
+    "static/js/main.624c54ae.js"
   ]
 }
