@@ -15,6 +15,7 @@ import MogasPage from "./components/ClientsPages/MogasPage";
 
 import AOS from "aos";
 import "aos/dist/aos.css";
+import ErrorComponent from "./components/ErrorComponent/ErrorComponent";
 function App() {
   const [showContactInfo, setShowContactInfo] = useState(false);
 
@@ -38,6 +39,7 @@ function App() {
   const router = createBrowserRouter([
     {
       path: "/",
+      errorElement: <ErrorComponent />,
       element: (
         <>
           <Header OpenContactInfo={OpenContactInfo} /> <Footer />

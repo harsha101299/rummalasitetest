@@ -1,0 +1,9 @@
+.errorPage{
+    background-color: rgba(0, 0, 0, 0.39);
+    height: 100vh;
+}
+
+.errorPage .text{
+    font-size: 24px;
+    font-weight: 700;
+}
